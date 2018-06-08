@@ -1,0 +1,5 @@
+export enum PartyFilterActionType {
+  SHOW_ATTENDING = 'SHOW_ATTENDING',
+  SHOW_ALL = 'SHOW_ALL',
+  SHOW_WITH_GUESTS = 'SHOW_WITH_GUESTS'
+}
